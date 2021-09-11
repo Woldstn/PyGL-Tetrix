@@ -1,6 +1,6 @@
 """Defines the game controller object."""
-from piece import Piece
 import pyglet
+from piece import Piece
 from labels import *
 from trxconst import batch, labels
 
