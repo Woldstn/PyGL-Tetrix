@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./src/tetrix",
-        "./src/tetrix"
-    ]
-}
