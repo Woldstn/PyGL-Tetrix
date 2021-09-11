@@ -1,11 +1,11 @@
-# Tetrix
+# PyGL-Tetrix
 A Tetris clone written using Pyglet.
 This was done as a one-day project to practice pyglet and programming concepts. This was originally a one-file program, but is now a full python package.
 
 ### Installation instructions
-To play, simply install the package using the command below in the command prompt or terminal.
-`pip install pygl-tetrix`
-Then, open the __main__.py script with python or use the following command to run the package.
+To play, simply install the package using the command below in the command prompt or terminal.<br>
+`pip install pygl-tetrix`<br>
+Then, open the \_\_main\_\_.py script with python or use the following command to run the package.<br>
 `python pygl-tetrix`
 
 ### Controls
