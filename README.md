@@ -4,9 +4,9 @@ This was done as a one-day project to practice pyglet and programming concepts. 
 
 ### Installation instructions
 To play, simply install the package using the command below in the command prompt or terminal.<br>
-`pip install pygl-tetrix`<br>
-Then, open the \_\_main\_\_.py script with python or use the following command to run the package.<br>
-`python pygl-tetrix`
+`pip install PyGL-Tetrix`<br>
+Then, use the following command to run the package.<br>
+`python -m pygl_tetrix`
 
 ### Controls
 * Move piece left - Left Arrow (←)
