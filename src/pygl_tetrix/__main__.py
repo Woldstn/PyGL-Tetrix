@@ -1,9 +1,9 @@
 """Generates a pyglet window and starts a Tetrix session."""
 import pyglet
-from colors import COLORS
-from trxconst import batch, background, side_frames
-from controller import Controller
-from grid import Grid
+from .colors import COLORS
+from .trxconst import batch, background, side_frames
+from .controller import Controller
+from .grid import Grid
 
 window = pyglet.window.Window(width=600, height=600, caption="Tetrix")
 

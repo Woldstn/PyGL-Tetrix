@@ -1,8 +1,8 @@
 """Defines the game controller object."""
 import pyglet
-from piece import Piece
-from labels import *
-from trxconst import batch, labels
+from .piece import Piece
+from .labels import *
+from .trxconst import batch, labels
 
 class Controller:
     """Contoller object which manages the various game components."""

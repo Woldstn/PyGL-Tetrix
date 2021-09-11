@@ -1,8 +1,8 @@
 """Defines the Piece class wihch controls its Square objects."""
 import random
 import math
-from square import Square
-from ptypes import PTYPES
+from .square import Square
+from .ptypes import PTYPES
 
 class Piece():
     """Piece object which manages a set of Square objects."""

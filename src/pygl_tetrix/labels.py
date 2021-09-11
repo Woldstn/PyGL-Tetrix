@@ -1,6 +1,6 @@
 """Defines the various pyglet labels to be used in the game."""
 import pyglet
-from trxconst import batch, labels
+from .trxconst import batch, labels
 
 level_label = pyglet.text.Label(
     'Level 1',

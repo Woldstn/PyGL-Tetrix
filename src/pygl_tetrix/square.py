@@ -1,8 +1,8 @@
 """Defines the Square class for tetrix pieces."""
 import pyglet
 import random
-from colors import COLORS
-from trxconst import batch, foreground
+from .colors import COLORS
+from .trxconst import batch, foreground
 
 class Square():
     """Square class for individual parts of tetrix pieces."""
