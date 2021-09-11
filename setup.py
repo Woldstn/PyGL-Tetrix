@@ -4,7 +4,7 @@ with open("README.md", "r") as desc_file:
     long_description = desc_file.read()
 
 setuptools.setup(
-    name="PyGL-Tetrix-WolDstn",
+    name="PyGL-Tetrix",
     version="0.0.1",
     author="Zach Pierog",
     author_email="woldstn@live.com",
