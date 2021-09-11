@@ -5,7 +5,7 @@ with open("README.md", "r") as desc_file:
 
 setuptools.setup(
     name="PyGL-Tetrix",
-    version="0.0.3",
+    version="0.0.1",
     author="Zach Pierog",
     author_email="woldstn@live.com",
     description="One-day Tetris programming challenge using pyglet",
