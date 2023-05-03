@@ -22,6 +22,6 @@ setuptools.setup(
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
-    install_requires=['pyglet'],
+    install_requires=['pyglet<2'],
     python_requires=">=3.6",
 )
